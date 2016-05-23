@@ -1,4 +1,4 @@
-* Fast campus 안드로이드 앱 개발 프로젝트 CAMP
+[Fast campus 안드로이드 앱 개발 프로젝트 CAMP]
 
 기본 S3 예제에서 다음 내용을 수정함. (https://github.com/awslabs/aws-sdk-android-samples)
  - S3 에 서울 region 적용해서 AWS4-HMAC-SHA256 문제 수정.
