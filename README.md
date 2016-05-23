@@ -1,3 +1,8 @@
+기본 S3 예제에서 다음 내용을 수정함. (https://github.com/awslabs/aws-sdk-android-samples)
+ - S3 에 서울 region 적용해서 AWS4-HMAC-SHA256 문제 수정.
+ - Cognito 는 가까운 동경 Region 으로 변경.
+
+
 Running S3TransferUtility Sample
 =============================================
 This sample demonstrates how to use the high-level class TransferUtility to perform download and upload tasks and manage the tasks.  You can also follow the tutorial for a step-by-step guide in understanding the S3TransferUtilitySample.
