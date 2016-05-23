@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="16773840763028" >
+
+    <task
+        name="javac"
+        duration="1166" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="196" />
+    <task
+        name="verifier"
+        duration="283" />
+
+    <artifact
+        location="C:\Users\mindwing\#dev\S3TransferUtilitySample\build\outputs\apk\S3TransferUtilitySample-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="16773840763028" >
+        <artifact
+            location="C:\Users\mindwing\#dev\S3TransferUtilitySample\build\outputs\apk\S3TransferUtilitySample-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

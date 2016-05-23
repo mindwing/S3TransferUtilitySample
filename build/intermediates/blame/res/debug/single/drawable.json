@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\mindwing\\#dev\\S3TransferUtilitySample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\mindwing\\#dev\\S3TransferUtilitySample\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mindwing\\#dev\\aws-sdk-android-samples\\S3TransferUtilitySample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\mindwing\\#dev\\aws-sdk-android-samples\\S3TransferUtilitySample\\res\\drawable\\ic_launcher.png"
+    }
+]
